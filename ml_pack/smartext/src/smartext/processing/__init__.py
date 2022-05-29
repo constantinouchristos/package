@@ -1,0 +1,1 @@
+from smartext.processing import ProcessorMain
